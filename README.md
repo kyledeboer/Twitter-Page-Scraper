@@ -7,6 +7,6 @@ The program searches through the tweets and calculates the frequency with which 
 The program then inserts relevent information regarding the tweets into an excel file.
 
 # Example:
-![138102279_162919711891638_5188520069653741173_n](https://user-images.githubusercontent.com/75041872/104138727-391cf980-5363-11eb-8665-95bd45db16f6.jpg)
+<img width="585" alt="Screen Shot 2021-01-10 at 4 56 27 PM" src="https://user-images.githubusercontent.com/75041872/104138922-e2182400-5364-11eb-93aa-2bf7616092e8.png">
 
 <img width="457" alt="Screen Shot 2021-01-10 at 4 47 35 PM" src="https://user-images.githubusercontent.com/75041872/104138759-7ed9c200-5363-11eb-832f-52d862d84ca0.png">
